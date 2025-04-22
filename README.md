@@ -4,6 +4,14 @@ A console-based **C++ application** designed to help small electronics shops man
 
 ---
 
+## 🚀 Open in Gitpod
+
+You can quickly start the project in Gitpod by clicking the button below:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Aabhasmishra/Electronic-Shop-Management-System)
+
+---
+
 ## 📌 Table of Contents
 
 - [Features](#-features)
