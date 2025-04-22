@@ -1,0 +1,9 @@
+aabhas aabhas@123 B asdf India Rupees 19 Male 654654 Gujarat Bhuj 654 qwer 8
+aabhas2 jkl A Aabhas India Rupees 19 Male 9724117255 Gujarat Bhuj 370001 Kailash_Nagar 830
+abhay2 efgh B Abhay Japan Yen 20 Male 123456 Guj Anj 1234 abh_soci 120
+abhay abhay123 A Abhay United_States Dollar 18 Male 9724117255 Gujarat Bhuj 370001 Sanakar_Nagar 830
+vinit vinit@123 B Vinit India Rupees 20 Male 8469831950 Gujarat Rajkot 360002 visheshwer_society 302
+aabhas3 asdf B aabhas India Rupees 19 Male 98466455 gujaray bhuj 370001 cfda 12
+nkjg jh A kd India Rupees 20 Male 2434143453 ljl hjkl 366600 323 21
+vaibhav123 v123 B Vaibhav India Rupees 81 Male 654321789 Gujarat Gandhidham 370201 subhas_nagar 420
+RcRoy 12345 B Roy Japan Yen 20 Male 6354126293 Gujarat Rajkot 123846 Marwadi 520
